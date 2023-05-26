@@ -169,6 +169,7 @@ body {
     border-radius: 20px;
     padding: 10px;
     color: white;
+    cursor: pointer;
 }
 
 .cnt:hover {
