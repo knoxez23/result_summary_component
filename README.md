@@ -13,4 +13,4 @@ Users should be able to:
 
 Solution Link: https://github.com/knoxez23/result_summary_component.git
 
-Live-site Link: 
+Live-site Link: https://result-summary-component-amber.vercel.app/
